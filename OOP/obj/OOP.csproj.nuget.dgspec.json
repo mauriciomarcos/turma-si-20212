@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beblue\\Desktop\\Fatec\\V2 - Continuar na aula\\OOP\\OOP\\OOP.csproj": {}
+    "C:\\Aula\\OOP\\OOP\\OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beblue\\Desktop\\Fatec\\V2 - Continuar na aula\\OOP\\OOP\\OOP.csproj": {
+    "C:\\Aula\\OOP\\OOP\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beblue\\Desktop\\Fatec\\V2 - Continuar na aula\\OOP\\OOP\\OOP.csproj",
+        "projectUniqueName": "C:\\Aula\\OOP\\OOP\\OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "C:\\Users\\Beblue\\Desktop\\Fatec\\V2 - Continuar na aula\\OOP\\OOP\\OOP.csproj",
+        "projectPath": "C:\\Aula\\OOP\\OOP\\OOP.csproj",
         "packagesPath": "C:\\Users\\Beblue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beblue\\Desktop\\Fatec\\V2 - Continuar na aula\\OOP\\OOP\\obj\\",
+        "outputPath": "C:\\Aula\\OOP\\OOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
