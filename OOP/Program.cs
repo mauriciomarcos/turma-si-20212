@@ -103,6 +103,7 @@ namespace OOP
         {
             foreach (var apenasUmaFuncao in listaCompletaDeFuncoes)
             {
+                Console.WriteLine("Paulo");
                 Console.WriteLine("Maurício Marcos");
                 Console.WriteLine(apenasUmaFuncao(n1, n2));
             }
